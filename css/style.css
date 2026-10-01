@@ -57,6 +57,14 @@ select {
   line-height: 36px;
 }
 
+.back-link {
+  margin-top: 20px;
+}
+
+.back-link a {
+  text-decoration: none;
+}
+
 footer {
   text-align: center;
   font-size: 18px;
